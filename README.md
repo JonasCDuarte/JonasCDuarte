@@ -14,5 +14,4 @@
 
 Apaixonado por tecnologia, até o momento pouco conhecimento mais muito interesse, adquirindo conhecimento a cada dia que se passa.
 
-## Contato
-jcoelhoduarte@gmail.com
+
